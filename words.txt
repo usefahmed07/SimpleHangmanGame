@@ -1,0 +1,4 @@
+SimpleHangmanGame/
+│── main.cpp
+│── words.txt
+│── README.md
