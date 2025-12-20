@@ -1,0 +1,3 @@
+A console-based Hangman game written in C++ for beginners.
+The game features ASCII-art hangman drawing, random word selection from a file, available letters display, and win/lose detection.
+This project was created for learning purposes and fun.
