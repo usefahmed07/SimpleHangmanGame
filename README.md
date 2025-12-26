@@ -1,0 +1,33 @@
+# A classic Hangman Game implemented in C++ for the console.
+
+# A simple console-based **Hangman Game** written in **C++** for learning and fun.
+
+# This project demonstrates basic C++ programming concepts through a classic word guessing game with ASCII art.
+
+---
+# Features
+- ASCII Art Hangman drawing
+- Random word selection from a file
+- Available letters display
+- Win / Lose detection
+- Clean and beginner-friendly code
+- Console-based UI
+
+
+
+#  Technologies Used
+- C++
+- Standard Library:
+  - iostream
+  - vector
+  - string
+  - fstream
+  - ctime
+
+---
+
+# ▶ How to Run
+
+1. Clone the repository:
+
+   git clone https://github.com/usefahmed07/SimpleHangmanGame.git
